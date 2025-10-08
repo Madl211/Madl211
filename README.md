@@ -1,1 +1,1 @@
-# Hi I'm Mathis :)
+# Hi, I'm Mathis :)
