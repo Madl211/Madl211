@@ -2,6 +2,10 @@
 
 Welcome to my GitHub profile!
 
+I am currently in my fifth semester at the University of Rostock.
+
+I spent a lot of time working with GitLab in July, August, and September, which is why I made fewer commits during those months.
+
 ---
 
 ## 📊 GitHub Stats
