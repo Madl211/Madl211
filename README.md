@@ -1,21 +1,11 @@
 # Hi, I'm Mathis Behrendt 👋
 
-Computer science student (B.Sc., 5th semester) at the University of Rostock, interested in IT security and backend development (Java, Python).
+Computer science student (B.Sc., 5th semester) at the University of Rostock.
 
-- 🔭 Currently: teaching assistant for *Imperative Programming* at the University of Rostock
-- 🎯 Looking for a 20-week internship in computer science from April 2027
+- Currently: teaching assistant for *Imperative Programming* at the University of Rostock
 - 🌐 Portfolio: [madl211.github.io/portfolio](https://madl211.github.io/portfolio/)
 
 Most of my university team projects are developed on the university's GitLab, so not all of my work shows up here.
-
----
-
-## 📂 Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [scrumboard](https://github.com/madl211/scrumboard) | Scrum board web app, team project in the Software Engineering module (grade 1.0) | Java, Javalin, Mustache, SQLite, JUnit |
-| [portfolio](https://github.com/madl211/portfolio) | My personal portfolio website | HTML, CSS, JavaScript |
 
 ---
 
