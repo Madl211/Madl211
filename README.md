@@ -18,4 +18,4 @@ Most of my university team projects are developed on the university's GitLab, so
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathis-behrendt-5ab5ba37a/)
-[![Email](https://img.shields.io/badge/Email-mathis%40unitofashion.de-4f46e5?style=for-the-badge)](mailto:mathis@unitofashion.de)
+[![Email](https://img.shields.io/badge/Email-mathis.behrendt06%40gmail.com-4f46e5?style=for-the-badge)](mailto:mathis.behrendt06@gmail.com)
